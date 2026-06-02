@@ -8,3 +8,5 @@
 
 ###john_deere.jpg
 ###Creative Commons Attribution-Share Alike 4.0
+
+###Licença Creative Commons Atribuição-Compartilha Igual 3.0
