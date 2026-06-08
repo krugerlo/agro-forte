@@ -1,6 +1,6 @@
 # página desenovlida para o concurso agrinho 2026
 ## Desenvolvido em html, css e javascript -
-### desenvolvido po lorena :thumbsup:
+### desenvolvido por Lorena kruger
 
 #imagens:
 
